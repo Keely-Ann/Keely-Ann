@@ -1,7 +1,7 @@
 # Hi, I'm Keely-Ann Maritz 👋
 **Software Developer | Computer Science Graduate**
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 * **Languages:** C#, Kotlin, JavaScript, PHP, HTML, CSS
 * **Frontend & Frameworks:** React.js, Vue.js, Node.js, Tailwind CSS, Bootstrap
@@ -11,7 +11,7 @@
 
 ---
 
-### 🎓 Education
+### Education
 
 * **Postgraduate Diploma in Data Analytics** | Emeris (2027-2028)
 * **Bachelor of Computer and Information Sciences in Application Development** | Varsity College Nelson Mandela Bay (2024–2025)
@@ -19,8 +19,14 @@
 
 ---
 
-### 📬 Connect With Me
+### Connect With Me
 
 * **GitHub:** [github.com/Keely-Ann](https://github.com/Keely-Ann)
 * **LinkedIn:** [linkedIn.com/Keely-Ann](https://www.linkedin.com/in/keely-ann-maritz-44678525a/)
 * **Email:** [keelyannmaritz@gmail.com](mailto:keelyannmaritz@gmail.com)
+
+---
+
+### Fun Fact 
+
+* **Dog Lover:** I own a 2-year-old miniature pinscher, named Zeke.
