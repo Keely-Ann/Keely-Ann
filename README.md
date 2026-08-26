@@ -3,7 +3,7 @@
 
 ### 🛠️ Tech Stack & Skills
 
-* **Languages:** C#, Kotlin, JavaScript, PHP, HTML5, CSS3, C++
+* **Languages:** C#, Kotlin, JavaScript, PHP, HTML, CSS
 * **Frontend & Frameworks:** React.js, Vue.js, Node.js, Tailwind CSS, Bootstrap
 * **Databases & Cloud:** SQL Server, MySQL, MongoDB, Azure SQL, Azure Tables, SQLite, Firebase, DigitalOcean Droplet
 * **DevOps & Security:** Docker, GitHub Actions, CircleCI, JWT Authentication, SSL Certificates, Input Sanitization (DOMPurify, Express-mongo-sanitize), bcrypt
