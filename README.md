@@ -22,5 +22,5 @@
 ### 📬 Connect With Me
 
 * **GitHub:** [github.com/Keely-Ann](https://github.com/Keely-Ann)
-* **LinkedIn:** [www.linkedin.com/in/keely-ann-maritz-44678525a](www.linkedin.com/in/keely-ann-maritz-44678525a)
+* **LinkedIn:** [linkedUn.com/Keely-Ann](https://www.linkedin.com/in/keely-ann-maritz-44678525a/)
 * **Email:** [keelyannmaritz@gmail.com](mailto:keelyannmaritz@gmail.com)
