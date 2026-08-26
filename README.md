@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Keely-Ann Maritz 👋
+**Software Developer | Computer Science Graduate**
 
-<!--
-**Keely-Ann/Keely-Ann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack & Skills
 
-Here are some ideas to get you started:
+* **Languages:** C#, Kotlin, JavaScript, PHP, HTML5, CSS3, C++[cite: 1]
+* **Frontend & Frameworks:** React.js, Vue.js, Node.js, Tailwind CSS, Bootstrap[cite: 1]
+* **Databases & Cloud:** SQL Server, MySQL, MongoDB, Azure SQL, Azure Tables, SQLite, Firebase, DigitalOcean Droplet[cite: 1]
+* **DevOps & Security:** Docker, GitHub Actions, CircleCI, JWT Authentication, SSL Certificates, Input Sanitization (DOMPurify, Express-mongo-sanitize), bcrypt[cite: 1]
+* **Developer Tools:** Visual Studio, Visual Studio Code, Android Studio, Arduino IDE, Git & GitHub[cite: 1]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎓 Education
+
+* **Bachelor of Computer and Information Sciences in Application Development** | Varsity College Nelson Mandela Bay (2024–2025)[cite: 1]
+* **Diploma in Information Technology in Software Development** | Varsity College Nelson Mandela Bay (2021–2023)[cite: 1]
+
+---
+
+### 📬 Connect With Me
+
+* **GitHub:** [github.com/Keely-Ann](https://github.com/Keely-Ann)[cite: 1]
+* **LinkedIn:** [linkedin.com/in/keely-ann-maritz-446785250](https://www.linkedin.com/in/keely-ann-maritz-446785250)[cite: 1]
+* **Email:** [keelyannmaritz@gmail.com](mailto:keelyannmaritz@gmail.com)[cite: 1]
