@@ -15,6 +15,7 @@
 
 * **Bachelor of Computer and Information Sciences in Application Development** | Varsity College Nelson Mandela Bay (2024–2025)
 * **Diploma in Information Technology in Software Development** | Varsity College Nelson Mandela Bay (2021–2023)
+* **Postgraduate Diploma in Data Analytics** | Emeris (2027-2028)
 
 ---
 
